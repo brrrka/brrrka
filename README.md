@@ -9,8 +9,8 @@
 ```javascript
 const brrrka = {
   pronouns: "he" | "him",
-  code: [Javascript, PHP, C++, HTML, CSS, Python],
-  tools: [React, Node, Laravel, shadcn/ui, Docker],
+  code: [Javascript, Node, PHP, C++, HTML, CSS, Python],
+  tools: [React, Laravel, shadcn/ui, Docker],
   challenge: "I am speedrunning Bangkit Academy"
 }
 ```
